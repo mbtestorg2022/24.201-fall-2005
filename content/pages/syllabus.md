@@ -21,10 +21,39 @@ The course requires 20 pages of written work altogether (5000 words). All writte
 Assessment
 ----------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Participation | 20% |
-| Two (9 page) Papers | 80% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two (9 page) Papers
+{{< tdclose >}}
+{{< tdopen >}}
+80%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Class Participation
 
@@ -37,11 +66,48 @@ Paper topics will be distributed in advance and will ask you to analyze and disc
 Summary of Deadlines
 --------------------
 
-| DUE DATES | ASSIGNMENTS |
-| --- | --- |
-| Ses #6 | Short Exercise (2 pages) |
-| Ses #14 | First Essay (9 pages) |
-| Ses #23 | Second Essay (9 pages) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ses #6
+{{< tdclose >}}
+{{< tdopen >}}
+Short Exercise (2 pages)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ses #14
+{{< tdclose >}}
+{{< tdopen >}}
+First Essay (9 pages)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ses #23
+{{< tdclose >}}
+{{< tdopen >}}
+Second Essay (9 pages)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Plagiarism and Academic Misconduct
 ----------------------------------
@@ -63,31 +129,414 @@ Because plagiarism can have severe disciplinary consequences, it is crucial to u
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| SES # | TOPICS | ACTIVITIES | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | Introduction to the Course | Lecture | &nbsp; |
-| 2 | Introduction to the Critique | Lecture | &nbsp; |
-| 3 | Space (Transcendental Aesthetic) | Lecture | &nbsp; |
-| 4 | Space (Transcendental Aesthetic) (cont.) | Lecture | &nbsp; |
-| 5 | The Transcendental Deduction of the Categories | Lecture | &nbsp; |
-| 6 | Space, and the Transcendental Deductions | Discussion | Short exercise due |
-| 7 | Substance and the First Analogy | Lecture | &nbsp; |
-| 8 | Substance and the First Analogy (cont.) | Discussion | &nbsp; |
-| 9 | Causality and the Second Analogy | Lecture | &nbsp; |
-| 10 | Causality (cont.) and Community (The Third Analogy) | Lecture | &nbsp; |
-| 11 | Causality and Community, the Second and Third Analogies | Discussion | &nbsp; |
-| 12 | Phenomena and Noumena | Lecture | &nbsp; |
-| 13 | Phenomena and Noumena (cont.) | Discussion | &nbsp; |
-| 14 | Kant's "Refutations" of Idealism | Lecture | First essay due |
-| 15 | Idealism, Realism, and Ignorance of Things in Themselves | Discussion | &nbsp; |
-| 16 | The "Problem of Affection," and Three Kantian Theses | Lecture | &nbsp; |
-| 17 | The "Problem of Affection," and Three Kantian Theses (cont.) | Discussion | &nbsp; |
-| 18 | The Development of Kantian Humility | Lecture | &nbsp; |
-| 19 | The Development of Kantian Humility (cont.) | Discussion | &nbsp; |
-| 20 | Substance Revisited | Lecture | &nbsp; |
-| 21 | Substance Revisited (cont.) | Discussion | &nbsp; |
-| 22 | Primary and Secondary Qualities in Kant | Lecture | &nbsp; |
-| 23 | Primary and Secondary Qualities in Kant (cont.) | Discussion | Second essay due |
-| 24 | Primary Qualities and Scientific Realism | Discussion | &nbsp; |
-| 25 | Idealism and Realism Revisited | Lecture | &nbsp; |
-| 26 | Idealism and Realism Revisited (cont.) | Discussion |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Course
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Critique
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Space (Transcendental Aesthetic)
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Space (Transcendental Aesthetic) (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The Transcendental Deduction of the Categories
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Space, and the Transcendental Deductions
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Short exercise due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Substance and the First Analogy
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Substance and the First Analogy (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Causality and the Second Analogy
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Causality (cont.) and Community (The Third Analogy)
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Causality and Community, the Second and Third Analogies
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Phenomena and Noumena
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Phenomena and Noumena (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Kant's "Refutations" of Idealism
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+First essay due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Idealism, Realism, and Ignorance of Things in Themselves
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+The "Problem of Affection," and Three Kantian Theses
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+The "Problem of Affection," and Three Kantian Theses (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+The Development of Kantian Humility
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+The Development of Kantian Humility (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Substance Revisited
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Substance Revisited (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Primary and Secondary Qualities in Kant
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Primary and Secondary Qualities in Kant (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Second essay due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Primary Qualities and Scientific Realism
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Idealism and Realism Revisited
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Idealism and Realism Revisited (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

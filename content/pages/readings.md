@@ -38,34 +38,376 @@ Readings by Session
 
 The A/B pagination featured below for Kant's _Critique of Pure Reason_ signifies the page numbers in the first (A) and second (B) editions of the text.
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction to the Course | &nbsp; |
-| 2 | Introduction to the Critique | Kant. _Critique_. A1/B1-A16/B30.  {{< br >}}  {{< br >}}Gardner. _Guidebook_. Chapter 3.  {{< br >}}  {{< br >}}van Cleve. _Problems._ Chapter 2. |
-| 3 | Space (Transcendental Aesthetic) | Kant. _Critique_. A19/B34-B73.  {{< br >}}  {{< br >}}Gardner. _Guidebook._ Chapter 4.  {{< br >}}  {{< br >}}van Cleve. _Problems_. Chapter 3 |
-| 4 | Space (Transcendental Aesthetic) (cont.) | Kant.  _Critique_. A19/B34-B73.  {{< br >}}  {{< br >}}van Cleve. _Problems_. Chapter 4. |
-| 5 | The Transcendental Deduction of the Categories | Kant. _Critique_. A96-A130/B130-B179.  {{< br >}}  {{< br >}}Gardner. _Guidebook_. pp. 135-165. |
-| 6 | Space, and the Transcendental Deductions | &nbsp; |
-| 7 | Substance and the First Analogy | Kant. _Critique_. A182/B224-A189/B232. |
-| 8 | Substance and the First Analogy (cont.) | &nbsp; |
-| 9 | Causality and the Second Analogy | Kant. _Critique_. B233-A211/B256.  {{< br >}}  {{< br >}}Strawson. _The Bounds of Sense_ (excerpt). |
-| 10 | Causality (cont.)and Community (The Third Analogy) | Kant. _Critique_. A211/B257-A218-B265. |
-| 11 | Causality and Community, the Second and Third Analogies | &nbsp; |
-| 12 | Phenomena and Noumena | Kant. _Critique_. A236/B295-A260/B315. |
-| 13 | Phenomena and Noumena (cont.) | &nbsp; |
-| 14 | Kant's "Refutations" of Idealism | Kant. _Critique_. A366/B274-A380/B279.  {{< br >}}  {{< br >}}Gardner. _Guidebook._ Chapter 8. |
-| 15 | Idealism, Realism, and Ignorance of Things in Themselves | &nbsp; |
-| 16 | The "Problem of Affection," and Three Kantian Theses | Kant.  _Critique_. The Amphiboly of Concepts of Reflection, A265/B321-A268/B324 and A277/B233-A278-B334.  {{< br >}}  {{< br >}}Langton. _Kantian Humility_. Chapters 1 and 2.  {{< br >}}  {{< br >}}Allison, Henry. _Transcendental Idealism._ Chapter 1. |
-| 17 | The "Problem of Affection," and Three Kantian Theses (cont.) | &nbsp; |
-| 18 | The Development of Kantian Humility | Kant. _Critique_.  The Amphiboly of Concepts of Reflection, A265/B321-A268/B324 and A277/B233-A278-B334. First Analogy, A182/B224-A189/B232.  {{< br >}}  {{< br >}}Leibniz, Gottfried Wilhelm. [_The Monadology_](https://ebooks.adelaide.edu.au/l/leibniz/gottfried/l525m/)  (excerpts).  {{< br >}}  {{< br >}}Kant. _New Exposition on the First Principles of Metaphysical Knowledge_ (excerpt).  {{< br >}}  {{< br >}}Langton. _Kantian Humility_ . Chapters 3-6. |
-| 19 | The Development of Kantian Humility (cont.) | &nbsp; |
-| 20 | Substance Revisited | Langton. _Kantian Humility_. Chapter 2. |
-| 21 | Substance Revisited (cont.) | &nbsp; |
-| 22 | Primary and Secondary Qualities in Kant | Kant. _Prolegomena_ (excerpt).  {{< br >}}  {{< br >}}Kant. _Critique_. Postulates of Empirical Thought, A225/B273-A266-B218. Axioms of Intuition and Anticipations of Perception, A162/B202-A176/B218.  {{< br >}}  {{< br >}}Locke, John. _Essay Concerning Human Understanding_ (1689) (excerpt). Edited by P. Nidditch. New York, NY: Oxford University Press, 1975. ISBN: 1406790273.  {{< br >}}  {{< br >}}Bennett, Jonathan.  _Locke, Berkeley, Hume: Central Themes _ (excerpt). New York, NY: Oxford University Press, 1971. ISBN: 0198243529.  {{< br >}}  {{< br >}}Evans, Gareth. "Things Without the Mind." In _Philosophical Subjects: Essays Presented to P. F. Strawson_. Edited by Zak van Straaten. New York, NY: Oxford University Press, 1980, pp. 76-116. ISBN: 019824603X.  {{< br >}}  {{< br >}}Langton. _Kantian Humility_. Chapters 7 and 8. |
-| 23 | Primary and Secondary Qualities in Kant | &nbsp; |
-| 24 | Primary Qualities and Scientific Realism | Kant. _The Kant-Eberhard Controversy_ (excerpt). Translated with a commentary by Henry E. Allison. Baltimore, MD: Johns Hopkins University Press, 1973. ISBN: 0801814561.  {{< br >}}  {{< br >}}Langton. _Kantian Humility_. Chapters 8 and 9. |
-| 25 | Idealism and Realism Revisited | Kant. _Critique_ . Transcendental Aesthetic, A19/B34-B73. Refutation of Idealism, A366-A380.  {{< br >}}  {{< br >}}Langton. _Kantian Humility_. Chapter 10. |
-| 26 | Idealism and Realism Revisited (cont.) |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Course
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Critique
+{{< tdclose >}}
+{{< tdopen >}}
+Kant. _Critique_. A1/B1-A16/B30.  
+  
+Gardner. _Guidebook_. Chapter 3.  
+  
+van Cleve. _Problems._ Chapter 2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Space (Transcendental Aesthetic)
+{{< tdclose >}}
+{{< tdopen >}}
+Kant. _Critique_. A19/B34-B73.  
+  
+Gardner. _Guidebook._ Chapter 4.  
+  
+van Cleve. _Problems_. Chapter 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Space (Transcendental Aesthetic) (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Kant.  _Critique_. A19/B34-B73.  
+  
+van Cleve. _Problems_. Chapter 4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The Transcendental Deduction of the Categories
+{{< tdclose >}}
+{{< tdopen >}}
+Kant. _Critique_. A96-A130/B130-B179.  
+  
+Gardner. _Guidebook_. pp. 135-165.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Space, and the Transcendental Deductions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Substance and the First Analogy
+{{< tdclose >}}
+{{< tdopen >}}
+Kant. _Critique_. A182/B224-A189/B232.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Substance and the First Analogy (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Causality and the Second Analogy
+{{< tdclose >}}
+{{< tdopen >}}
+Kant. _Critique_. B233-A211/B256.  
+  
+Strawson. _The Bounds of Sense_ (excerpt).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Causality (cont.)and Community (The Third Analogy)
+{{< tdclose >}}
+{{< tdopen >}}
+Kant. _Critique_. A211/B257-A218-B265.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Causality and Community, the Second and Third Analogies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Phenomena and Noumena
+{{< tdclose >}}
+{{< tdopen >}}
+Kant. _Critique_. A236/B295-A260/B315.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Phenomena and Noumena (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Kant's "Refutations" of Idealism
+{{< tdclose >}}
+{{< tdopen >}}
+Kant. _Critique_. A366/B274-A380/B279.  
+  
+Gardner. _Guidebook._ Chapter 8.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Idealism, Realism, and Ignorance of Things in Themselves
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+The "Problem of Affection," and Three Kantian Theses
+{{< tdclose >}}
+{{< tdopen >}}
+Kant.  _Critique_. The Amphiboly of Concepts of Reflection, A265/B321-A268/B324 and A277/B233-A278-B334.  
+  
+Langton. _Kantian Humility_. Chapters 1 and 2.  
+  
+Allison, Henry. _Transcendental Idealism._ Chapter 1.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+The "Problem of Affection," and Three Kantian Theses (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+The Development of Kantian Humility
+{{< tdclose >}}
+{{< tdopen >}}
+Kant. _Critique_.  The Amphiboly of Concepts of Reflection, A265/B321-A268/B324 and A277/B233-A278-B334. First Analogy, A182/B224-A189/B232.  
+  
+Leibniz, Gottfried Wilhelm. [_The Monadology_](https://ebooks.adelaide.edu.au/l/leibniz/gottfried/l525m/)  (excerpts).  
+  
+Kant. _New Exposition on the First Principles of Metaphysical Knowledge_ (excerpt).  
+  
+Langton. _Kantian Humility_ . Chapters 3-6.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+The Development of Kantian Humility (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Substance Revisited
+{{< tdclose >}}
+{{< tdopen >}}
+Langton. _Kantian Humility_. Chapter 2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Substance Revisited (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Primary and Secondary Qualities in Kant
+{{< tdclose >}}
+{{< tdopen >}}
+Kant. _Prolegomena_ (excerpt).  
+  
+Kant. _Critique_. Postulates of Empirical Thought, A225/B273-A266-B218. Axioms of Intuition and Anticipations of Perception, A162/B202-A176/B218.  
+  
+Locke, John. _Essay Concerning Human Understanding_ (1689) (excerpt). Edited by P. Nidditch. New York, NY: Oxford University Press, 1975. ISBN: 1406790273.  
+  
+Bennett, Jonathan.  _Locke, Berkeley, Hume: Central Themes _ (excerpt). New York, NY: Oxford University Press, 1971. ISBN: 0198243529.  
+  
+Evans, Gareth. "Things Without the Mind." In _Philosophical Subjects: Essays Presented to P. F. Strawson_. Edited by Zak van Straaten. New York, NY: Oxford University Press, 1980, pp. 76-116. ISBN: 019824603X.  
+  
+Langton. _Kantian Humility_. Chapters 7 and 8.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Primary and Secondary Qualities in Kant
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Primary Qualities and Scientific Realism
+{{< tdclose >}}
+{{< tdopen >}}
+Kant. _The Kant-Eberhard Controversy_ (excerpt). Translated with a commentary by Henry E. Allison. Baltimore, MD: Johns Hopkins University Press, 1973. ISBN: 0801814561.  
+  
+Langton. _Kantian Humility_. Chapters 8 and 9.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Idealism and Realism Revisited
+{{< tdclose >}}
+{{< tdopen >}}
+Kant. _Critique_ . Transcendental Aesthetic, A19/B34-B73. Refutation of Idealism, A366-A380.  
+  
+Langton. _Kantian Humility_. Chapter 10.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Idealism and Realism Revisited (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Additional_Readings" >}}{{< /anchor >}}Additional Readings
 ----------------------------------------------------------------------
