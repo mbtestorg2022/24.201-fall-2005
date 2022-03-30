@@ -5,6 +5,7 @@ description: This resource discusses about Kant?s distinction, ?Noumenon? in a n
   and Allison?s deflationary proposal.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-201-topics-in-the-history-of-philosophy-kant-fall-2005/e795da23ecec5f41686ffe6edbc3730d_9_phen_and_noumn.pdf
 file_type: application/pdf
+parent_uid: f7038a8f-2b52-6de0-9b69-252d4e671a7f
 resourcetype: Document
 title: 9_phen_and_noumn.pdf
 uid: e795da23-ecec-5f41-686f-fe6edbc3730d
